@@ -1,3 +1,14 @@
+# Changelog 26/01/2026
+- Defer applying divider
+- remove default Pocket Mode from source
+- Add XML files for dEQP feature flags
+- Add OpenGL ES and update Vulkan dEQP feature flags
+- Add camera.concurrent into supported feature
+- Fix HBM Issue brightness
+- Add Battery Friendly Pocket Mode
+- Dropped Devicewebcam
+- Implement usb fast charge mode
+
 # Changelog 19/01/2026
 - alioth: Update blobs from OS1.0.6.0.TKHCNXM
 - Add overlay to improve signal reception
