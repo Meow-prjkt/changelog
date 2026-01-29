@@ -1,3 +1,11 @@
+# Changelog 29/01/2026
+- Enable doze auto brightness on AOD
+- Enable WFD property "persist.debug.wfd.enable".
+- Disable HWC for VDS except WFD
+- Allow HWC path for WFD
+- alioth: overlay: Configure display cutout
+- Update WFD system blobs to dada OS3.0.3.0.WOCMIXM
+
 # Changelog 26/01/2026
 - Defer applying divider
 - remove default Pocket Mode from source
