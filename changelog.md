@@ -1,3 +1,8 @@
+# Changelog 04/02/2026
+- Use 4G instead of LTE icon for save statusbar space
+- Add a property to enable prefetching video
+- allow the linux kernel to access /vendor/firmware
+
 # Changelog 29/01/2026
 - Enable doze auto brightness on AOD
 - Enable WFD property "persist.debug.wfd.enable".
