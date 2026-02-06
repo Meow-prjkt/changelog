@@ -1,3 +1,11 @@
+# Changelog 06/02/2026
+- Update a650_sqe from linux-firmware
+- Sync/update blobs from pipa OS2.0.10.0.UMZCNXM
+- Update Graphics blobs from ishtar OS2.0.105.0.VMAMIXM
+- Fix imsrcsd/init_thermal-engine rc
+- Configure custom thermal
+- Set thermal data path for xiaomi mi_thermald
+
 # Changelog 04/02/2026
 - Use 4G instead of LTE icon for save statusbar space
 - Add a property to enable prefetching video
