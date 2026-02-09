@@ -1,3 +1,28 @@
+# Changelog 09/02/2026
+- Set frame rate multiple threshold to 120
+- Reduce blur radius
+- HBM: Change default threshold to 7000
+- Enable AOSP surfaceflinger
+- Enable ScrollOptimizer
+- Build libusbhost to vendor
+- Reduce aod brightness value
+- Add android.hardware.drm@1.4 and libcrypto_shim
+- Build libhidltransport and libhwbinder
+- Build Graphics Allocator HAL service and implement it
+- Build gralloc.qcom
+- Explicitly disable SF layer cache
+- Set systemui/server dex profiles to performance
+- Boost gpu on LAUNCH
+- Bump little cluster boost upon INTERACTION
+- Bump kernel clang to r563880
+- Force device to treat 170M as sRGB in SF
+- config.fs: Add new AID
+- config.fs: Adding GIDs for SSGTZD process
+- config.fs: Define new AID for qcc-trd
+- Update sepolicy properties
+- Prepend soong ns to lib_driver_cmd_qcwcn
+- RefreshRateTile: Seperate min & max refresh rate
+
 # Changelog 06/02/2026
 - Update a650_sqe from linux-firmware
 - Sync/update blobs from pipa OS2.0.10.0.UMZCNXM
