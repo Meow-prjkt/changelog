@@ -1,3 +1,8 @@
+# Changelog 10/02/2026
+- Fixup Add more reserve space for vanilla builds (can flash Full GApps packages)
+- Set ro.netflix.bsp_rev
+- Improve surfaceflinger Service 
+
 # Changelog 09/02/2026
 - Set frame rate multiple threshold to 120
 - Reduce blur radius
