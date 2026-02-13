@@ -1,3 +1,13 @@
+# Changelog 14/02/2026
+- Update some Prebuilts from HyperOS 1.0.5.0 Mi
+- Disable MTE on system_server and apps
+- Override kernel BPF version
+- wifi: Add parameters for Hotspot 2.0
+- Allow devicesettings_app to access LiveDisplay tuneables
+- Label expressive design and skia renderthread properties
+- Allow vendor_init to tune kernel scheduler interfaces
+- Label libgpudataproducer.so to address denial
+
 # Changelog 10/02/2026
 - Fixup Add more reserve space for vanilla builds (can flash Full GApps packages)
 - Set ro.netflix.bsp_rev
