@@ -1,3 +1,13 @@
+# Changelog 22/02/2026
+- Uprev vendor.qti.hardware.bluetooth_audio to 2.1
+- Allow toolbox to manage resourcecache_data_file
+- Import 64 bit vendor.qti.hardware.bluetooth_audio@2.1-impl.so
+- Enable QCRIL radio power saving
+- Add Gryphline games to unity boosting
+- Disable GPU protected composition
+- Limit dex2oat cpu utilization
+- Disable WiFi Multi-STA
+
 # Changelog 14/02/2026
 - Update some Prebuilts from HyperOS 1.0.5.0 Mi
 - Disable MTE on system_server and apps
