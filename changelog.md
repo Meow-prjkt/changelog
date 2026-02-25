@@ -1,3 +1,10 @@
+# Changelog 25/02/2026
+- Allow mi_thermald read/write access to HBM sysfs
+- Properly disable phantom process killing
+- init: Give proper permissions for /dev/diag
+- props: enable_camera_smooth
+- Fix touch thermal profile cant turned on
+
 # Changelog 22/02/2026
 - Uprev vendor.qti.hardware.bluetooth_audio to 2.1
 - Allow toolbox to manage resourcecache_data_file
