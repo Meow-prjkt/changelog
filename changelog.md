@@ -1,3 +1,15 @@
+# Changelog 07/03/2026
+- remove default Pocket Mode from source
+- Set BOARD_USES_ADRENO to true
+- Fix voip incall mic
+- dolby: Update dolby blobs from pdx237
+- parts: Move to SwitchPreferenceCompat for Bypass Charging
+- libinit: Drop fingerprint override
+- fix auto brightness issues
+- rootdir: Remove IO read_ahead_kb tune
+- parts: Implement Pocket Detection service
+- Enable Remote Key Provisioning (RKPD) support
+
 # Changelog 25/02/2026
 - Allow mi_thermald read/write access to HBM sysfs
 - Properly disable phantom process killing
