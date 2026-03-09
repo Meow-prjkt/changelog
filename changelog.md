@@ -1,3 +1,12 @@
+# Changelog 12/03/2026
+- munch: Import vibrator effects
+- CameraProvider: set saner values
+- Migrate libcameraservice ext to soong_config_set
+- camera: Add enabled bool for finished workarounds
+- camera: Implement setTorchModeExt
+- camera: Implement supportsSetTorchModeExt
+- Implement torch light control
+
 # Changelog 07/03/2026
 - remove default Pocket Mode from source
 - Set BOARD_USES_ADRENO to true
