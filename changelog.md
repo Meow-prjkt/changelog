@@ -1,3 +1,8 @@
+# Changelog 17/03/2026
+- Updated Adreno GPU blobs to version 530.55 from AOSPA
+- dolby: Update dolby blobs from pdx237
+- alioth: Import vibrator effects
+
 # Changelog 12/03/2026
 - munch: Import vibrator effects
 - CameraProvider: set saner values
