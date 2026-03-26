@@ -1,3 +1,17 @@
+# Changelog 26/03/2026
+- Update WFD system blobs to dada OS3.0.6.0.WOCMIXM
+- Set "bluetooth.auto_connect_profiles.enabled" to true
+- Introduce Dirac preferences
+- Dropped Gamebar
+- Override MusicFX and handle EQ intent 
+- Update Kernel To RE404 NeW Source
+- dolby: Add privapp-permissions-dolby.xml as a dependency
+- dolby: enable dolby by default
+- dolby: Add Filipino language
+- dolby: Add Vietnamese
+- dolby: Add Indonesian localization
+- dolby: added ru localization
+
 # Changelog 17/03/2026
 - Updated Adreno GPU blobs to version 530.55 from AOSPA
 - dolby: Update dolby blobs from pdx237
