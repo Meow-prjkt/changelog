@@ -1,3 +1,23 @@
+# Changelog 02/04/2026
+- Import modified thermal engine blobs
+- DSPVolumeSynchronizer: Do not install for clone apps or private space
+- dolby: DSPVolumeSynchronizer: Migrate to privapp_allowlist
+- dolby: DSPVolumeSynchronizer: Add icon
+- dolby: Implement DSPVolumeSynchronizer
+- Reworks Media hals configuration
+- Add new Gamebar overlay configuration
+- wifi: set beacon missed count threshold
+- wifi: Bluetooth co-existence parameters
+- wifi: enable DFS channel scanning in P2P search
+- overlay: Don't turn off WiFi when activating airplane mode
+- props: Move fuse passthrough prop to system
+- parts: Hide refresh rates below 60Hz from the Refresh Rate Tile
+- Enable 802.11k/r/v and WMM
+- increase board partition size
+- init: Decrease swappiness to 100 for better ZRAM utilization
+- parts: Fix IndexOutOfBoundsException in RefreshRateTileService
+- Add SystemUI restart in restart advanced menu
+
 # Changelog 26/03/2026
 - Update WFD system blobs to dada OS3.0.6.0.WOCMIXM
 - Set "bluetooth.auto_connect_profiles.enabled" to true
