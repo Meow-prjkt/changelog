@@ -1,3 +1,21 @@
+# Changelog 07/04/2026
+- Disable default frame rate limit for games
+- Update UI Gamebar
+- Enable ADB by default in non-user builds
+- Bind mount Wifi Aware feature permissions.
+- init: rm package cache on early boot
+- init: Remove unnecessary QTI logkit directories
+- vintf: add android.hardware.configstore@1.1
+- overlay: Set max network scan search time to 254
+- parts: Always refresh playback if status changed
+- overlay: Add Smart5G support configuration
+- disable verbose camera logs
+- overlays: Support A/B OTA perf mode
+- Set SurfaceFlinger uclamp.min to 20%
+- sepolicy: Grant mediacodec access to vendor_audio_prop
+- sepolicy: Allow webview_zygote to map zygote_tmpfs files
+- sepolicy: Allow vendor_mdm_helper to use fowner capability
+
 # Changelog 02/04/2026
 - Import modified thermal engine blobs
 - DSPVolumeSynchronizer: Do not install for clone apps or private space
