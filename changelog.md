@@ -1,3 +1,9 @@
+# Changelog 10/04/2026
+- Back to GPU Driver from HyperOS munch V816.0.9.0.ULMMIXM
+- Update blobs from pipa OS2.0.14.0.UMZMIXM
+- Sync kernel to xiaomi_sm8250_kernel_e404 latest
+- Dropped Spoof BuildFingerprint as Pixel Beta and back to HyperOS BuildFingerprint
+
 # Changelog 07/04/2026
 - Disable default frame rate limit for games
 - Update UI Gamebar
