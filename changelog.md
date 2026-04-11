@@ -1,3 +1,11 @@
+# Changelog 11/04/2026
+- Overlays: Also Build AOSP-default color modes
+- Overlays: Switch to vendor-defined color modes
+- Disable logging sensors-hal events
+- props: Enable ro.audio.monitorRotation
+- sepolicy: Allow zygote to access unix_stream_socket
+- sepolicy: Allow untrusted_app to getopt zygote
+
 # Changelog 10/04/2026
 - Back to GPU Driver from HyperOS munch V816.0.9.0.ULMMIXM
 - Update blobs from pipa OS2.0.14.0.UMZMIXM
