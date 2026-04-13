@@ -1,3 +1,9 @@
+# Changelog 16/04/2026
+- props: Do not use phase offsets as duration
+- Enable small battery configuration
+- Disable QCOM system daemon
+- Sync kernel to xiaomi_sm8250_kernel_e404 latest
+
 # Changelog 11/04/2026
 - Overlays: Also Build AOSP-default color modes
 - Overlays: Switch to vendor-defined color modes
