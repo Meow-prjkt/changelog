@@ -1,3 +1,12 @@
+# Changelog 20/04/2026
+- Move DPM feature property to /system_ext
+- audio: Increase bit depth for audio output
+- parts: Update thermal profiles icons
+- powerhint: Import useful dex hints
+- props: Disable layer caching
+- props: Disable display system load check
+- Suppress warning related to NNAPI HAL accessing zeroth.debuglog.logmask
+
 # Changelog 16/04/2026
 - props: Do not use phase offsets as duration
 - Enable small battery configuration
