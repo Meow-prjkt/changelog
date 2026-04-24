@@ -1,3 +1,10 @@
+# Changelog 26/04/2026
+- Revert "sm8250-common: Enable ScrollOptimizer"
+- Enable BT low power adaptive control feature
+- props: Disable QTI perf lock usage in camera HAL
+- props: Tune adaptive suspend proprieties
+- init: Remove racey printk setups
+
 # Changelog 20/04/2026
 - Move DPM feature property to /system_ext
 - audio: Increase bit depth for audio output
