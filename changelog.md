@@ -1,3 +1,14 @@
+# Changelog 10/05/2026
+- init: Set media XML codecs variant to _kona
+- Enable VoNR Calls support
+- powerhint: Added UclampTAMin node
+- powerhint: Reduce GPUIdleTimer value
+- rootdir: Remove support for eMMC
+- Remove bogus tombstone directory directives
+- parts: Move to PreferenceFragmentCompat
+- parts: Convert for M3E support
+- parts: Move leftovers to SwitchPreferenceCompat
+
 # Changelog 26/04/2026
 - Revert "sm8250-common: Enable ScrollOptimizer"
 - Enable BT low power adaptive control feature
