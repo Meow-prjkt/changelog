@@ -1,3 +1,11 @@
+# Changelog 17/05/2026
+- Shipping E404 R15 Release
+- munch: Update blobs to munch V816.0.12.0.ULMMIXM
+- powerhint: Remove hints for Adaptive Battery CPU Throttling
+- powerhint: Set gpu power level to 0 during expensive rendering
+- props: Disable bluetooth powerstats
+- Enable UBWC aligned framebuffer
+
 # Changelog 10/05/2026
 - init: Set media XML codecs variant to _kona
 - Enable VoNR Calls support
