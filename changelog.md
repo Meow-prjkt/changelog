@@ -1,3 +1,17 @@
+# Changelog 03/06/2026
+- Rebase device tree dropped some commit
+- vintf: Declare graphics allocator
+- Move c2_manifest_vendor.xml to device tree
+- Import Dolby Media Codec
+- audio: Sync with Spatial Audio
+\- Build Lineage Health HAL
+- pipa: Update blobs from OS2.0.16.0.UMZMIXM
+- dolby: Add support for Dolby Vision
+- dolby: Import dax-default's from Motorola
+- dolby: Forcefully Enable bass-enhancer
+- dolby: Move Spatial props to vendor
+- dolby: Update dax-default from MIUI
+
 # Changelog 17/05/2026
 - Shipping E404 R15 Release
 - munch: Update blobs to munch V816.0.12.0.ULMMIXM
