@@ -1,10 +1,17 @@
+# Changelog 12/06/2026
+- dolby: Patch libdolbyvision.so to allocate GraphicBuffer with new size
+- dolby: Switch to Newer Standalone Dolby Vision Stack taken from A16
+- dolby: Add Dolby vision Service support
+- dolby: sepolicy: Initial rules for DVS
+- dolby: Check and dismiss notification listener card if perm granted
+
 # Changelog 03/06/2026
 - Rebase device tree dropped some commit
 - vintf: Declare graphics allocator
 - Move c2_manifest_vendor.xml to device tree
 - Import Dolby Media Codec
 - audio: Sync with Spatial Audio
-\- Build Lineage Health HAL
+- Build Lineage Health HAL
 - pipa: Update blobs from OS2.0.16.0.UMZMIXM
 - dolby: Add support for Dolby Vision
 - dolby: Import dax-default's from Motorola
